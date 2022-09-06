@@ -1,3 +1,4 @@
+// import the action file
 import {
   UPDATE_PRODUCTS,
   ADD_TO_CART,
